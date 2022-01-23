@@ -3,7 +3,7 @@
 
 The Nigeria bank code is a basic python package that returns details of particular bank in Nigeria.
 
-## Installation
+## Installation Process
 
 You can install Nigeria bank codes from [PyPI](https://pypi.org/project/nigeria_bank_codes/):
 
